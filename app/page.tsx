@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { internships } from "./data/internships";
+import { internships } from "../data/internships";
 
 export default function Home() {
   // Converted to state so new user-entered tokens can be pushed dynamically
