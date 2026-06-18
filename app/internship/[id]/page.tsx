@@ -1,4 +1,4 @@
-import internships from '../../../data/internships';
+import { internships } from '../../../data/internships';
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
